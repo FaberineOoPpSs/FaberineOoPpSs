@@ -32,7 +32,7 @@ jobs:
         id: generate-snake
         uses: ./
         with:
-          github_user_name: FaberineOoPpSs/FaberineOoPpSs
+          github_user_name: FaberineOoPpSs
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
