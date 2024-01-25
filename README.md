@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am **faberine**<br>
-I am a 3rd year BTech undergrad in Data Science
+I am a 4th year BTech undergrad in Data Science
 - 🌱 I’m currently learning two amazing disruptive technologies: Blockchain and AI(DL, RL). Hoping to build something wonderful oneday!
 - 📫 How to reach me: yashaswi.aryan99@gmail.com
 - ⚡ Fun fact: 90% of world currency is on computers!
